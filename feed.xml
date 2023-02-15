@@ -5,9 +5,143 @@
         <description>Land, Water, and Climate Change</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Feb 2023 14:28:32 +0800</pubDate>
-        <lastBuildDate>Sun, 05 Feb 2023 14:28:32 +0800</lastBuildDate>
+        <pubDate>Wed, 15 Feb 2023 22:25:51 +0800</pubDate>
+        <lastBuildDate>Wed, 15 Feb 2023 22:25:51 +0800</lastBuildDate>
         <generator>Jekyll v4.3.1</generator>
+        
+            <item>
+                <title>South Asia’s contribution to increasing groundwater research</title>
+                <description>&lt;h1 id=&quot;south-asias-contribution-to-increasing-groundwater-research&quot;&gt;South Asia’s contribution to increasing groundwater research&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://watersciencepolicy.com/article/south-asias-contribution-to-increasing-groundwater-research-a7d9736dc345?language=English&quot;&gt;Original Article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gupta, M., &amp;amp; Chinnasamy, P. (2022) &apos;South Asia&apos;s contribution to increasing groundwater research&apos; Water Science Policy, 3(16). doi:&lt;/code&gt; &lt;a href=&quot;https://dx.doi.org/10.53014/CXXK7262&quot;&gt;https://dx.doi.org/10.53014/CXXK7262&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Groundwater plays a pivotal role in sustaining the food security and climate change adaptation of South and Southeast Asia.&lt;/li&gt;
+  &lt;li&gt;Groundwater depletion is high in Asian regions, compared to global rates. Excessive pumping and unregulated use have severely impacted groundwater levels and quality leading to significant socio-economic and environmental stresses.&lt;/li&gt;
+  &lt;li&gt;Bibliometrics can help provide a consolidated picture of research trends and patterns of publications under different categories and thereby evaluate the impact of groundwater research from South and Southeast Asia and its contribution to global research.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://firebasestorage.googleapis.com/v0/b/water-science-policy.appspot.com/o/articles%2Fda0e0572-53bb-46e8-892c-a7d9736dc345%2Fimages%2FCover%25252525252525252525252525252525252525252520(1).png?alt=media&amp;amp;token=67ad01d1-f229-4062-b2ec-727466e7acc7&quot; alt=&quot;Figure 1&quot; /&gt;
+&lt;em&gt;Word cloud obtained through keywords frequency analysis for groundwater-related research. (Taken from Original Article)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Global awareness of groundwater resources has grown over the past few decades. Research in the field has expanded significantly, ranging from targeting specific challenges to designing techniques and building models for better management. However, many studies have been site or objective specific meaning the overall growth and progress of groundwater research has not been tracked. Our study, recently published in Environmental Science and Pollution Research, addresses this gap by applying the bibliometric approach to track and map groundwater research trends and identify research hotspots in South and Southeast Asia. Bibliometric analysis is a popular and rigorous statistical evaluation of large volumes of scientific publications to measure the influence of publications in the scientific community.&lt;/p&gt;
+
+&lt;p&gt;The South and Southeast Asian regions, comprising 19 countries, are among the world’s fastest-growing economies and most densely populated regions, hosting about 32% of the global population. The regions have several of the high groundwater-producing aquifers of the globe. Over the decades, the ease of groundwater access has helped alleviate hunger and poverty in many South and Southeast Asian countries by increasing agricultural productivity and stabilising rural incomes. In addition, groundwater provides drinking, domestic and industrial supplies across the urban-rural spectrum, especially during extreme hydro-climatic events like droughts. Together, the two regions are the largest abstractors of groundwater accounting for one-third of global groundwater extraction, i.e., 1,432 billion cubic meters. However, this excessive and unregulated use has led to issues of availability and accessibility of safe and sustainable groundwater in many parts of the region. Therefore, it is useful to track and map research on emerging groundwater issues, technological advancements and effective management solutions in the region using bibliometric analysis. In addition, lessons learned from the highest groundwater extracting regions can aid regions where groundwater use is increasing exponentially.&lt;/p&gt;
+
+&lt;p&gt;We collected publication data for all 19 South and Southeast Asian countries published between 1970 and 2020 via Scopus, an open-source database of citations and abstracts of scientific publications. This span of 50 years has also witnessed a substantial increase in groundwater use. The data were manually checked to filter publications of unrelated topics and duplicates.&lt;/p&gt;
+
+&lt;p&gt;We evaluated a total of 7,895 groundwater-related documents. Our analysis shows that the average annual growth rate (AAGR – 37%) for groundwater-related studies from the region was four times the global growth rate (AAGR - 9%) over the same period (Fig. 2).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://firebasestorage.googleapis.com/v0/b/water-science-policy.appspot.com/o/articles%2Fda0e0572-53bb-46e8-892c-a7d9736dc345%2Fimages%2FFigure%252525252525252525252525252525252525252525201%25252525252525252525252525252525252525252520(1).png?alt=media&amp;amp;token=2625d150-7fe8-453f-9986-3820d2f0c642&quot; alt=&quot;Figure 2&quot; /&gt;
+&lt;em&gt;Groundwater related publications from South and Southeast Asian countries compared to global groundwater research publications, 1970-2020. (Taken from Original Article)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Of the publications analysed, 82% (6,361) were research articles published in journals. We further explored these articles for research output trends, country-wise productivity, institutional distribution and collaborations, subject categories, journal contribution, and author productivity.&lt;/p&gt;
+
+&lt;p&gt;The contribution from South Asian countries was six times higher than that of Southeast Asian countries. India has maintained the lead in terms of productivity (4,584 articles), deepening research in different groundwater fields. Research in India has largely been carried out by central and state universities and independent research institutes (Fig. 3). Following India were Pakistan and Malaysia with 309 and 289 articles, respectively. Cambodia, Afghanistan, and Myanmar contributed less than 1% of the total articles published from the region despite also being highly dependent on groundwater resources for domestic and irrigation demands.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://firebasestorage.googleapis.com/v0/b/water-science-policy.appspot.com/o/articles%2Fda0e0572-53bb-46e8-892c-a7d9736dc345%2Fimages%2FFigure%252525252525252525252525252525252525252525202%25252525252525252525252525252525252525252520(1).jpg?alt=media&amp;amp;token=7a88c409-39aa-4c70-bf21-04ca6882c7ad&quot; alt=&quot;Figure 3&quot; /&gt;
+&lt;em&gt;Geographic distribution of groundwater-related studies across South and Southeast Asian countries, 1970-2020. (Taken from Original Article)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We observed that over time researchers have developed a pattern of academic cooperation to assess and manage groundwater challenges. Along with intra- and inter-institute collaborations within a home country, collaborations were highest with the researchers from USA (273 articles) and Japan (77 articles). Further, the author contribution trends revealed a predominance of male researchers in the domain, with only one female researcher making it to the top 20 most productive authors identified. However, over the years, it is increasingly recognised that women play a crucial role in working with and managing groundwater resources. Therefore, the scientific community should make efforts to encourage and support female researchers and to reduce the observed gender imbalance.&lt;/p&gt;
+
+&lt;p&gt;Based on analysis of 10,240 author keywords, besides ‘Groundwater’ the top five most frequently used keywords were ’Groundwater quality’, ’Geographic information system (GIS)’, ’India’, ’Arsenic’, and ’Fluoride’.&lt;/p&gt;
+
+&lt;p&gt;The majority of the articles were focused on groundwater quality, mapping hotspot areas, contaminant transport, and remediation technologies. Among the vast list of groundwater contaminants, inorganic contaminants - arsenic and fluoride - are most widely researched in the regions with 606 and 443 articles published, respectively. As groundwater serves as a vital source of drinking water and irrigation supply in many rural areas, research on suitability of groundwater quality has also been done extensively using a Water Quality Index as an important assessment tool. These research efforts also resonate in the high research productivity of journals like Indian Journal of Environmental Protection (258 articles), Pollution Research (184 articles), and Environmental Monitoring, and Assessment (182 articles)..&lt;/p&gt;
+
+&lt;p&gt;An increasing trend, post 2000, was noted in the number of studies related to groundwater depletion and management. Research efforts have been made to understand groundwater behaviour using modelling approaches, quantify the groundwater reserves through remote sensing and GIS techniques, explore interventions and technological solutions to enhance groundwater recharge, and implement better irrigation practices for sustainable management. Along with this, the current trending research themes such as climate change, artificial recharge, and conjunctive use of surface and groundwater resources gained attention.&lt;/p&gt;
+
+&lt;p&gt;Looking at the central disciplines of the published groundwater research, productivity was higher in environmental sciences (37%), geology (17%) and agricultural sciences (9%). However, groundwater issues are interrelated with a wide range of disciplines. So, we advocate a more interdisciplinary approach to holistically connect the physical and social aspects of groundwater resources availability and accessibility.&lt;/p&gt;
+
+&lt;p&gt;Lastly, we found that good quality and quantity of data are critical to effectively manage groundwater resources. Therefore, we recommend expanding monitoring networks to improve the frequency and volume of groundwater data available. Incorporating crowdsourcing methods has seen positive results in recent years in obtaining supplementary data. Adopting these solutions will lead to more data generation; hence, data mining techniques and machine learning algorithms, will also have to be explored.&lt;/p&gt;
+
+&lt;p&gt;Our research demonstrates the usefulness of bibliometric analysis for both established and emerging scholars, as well as the professional community. The analysis helped to track and map the growth, trends and future direction of groundwater research. With this study, it is hoped that the gaps identified will be addressed and improved at the individual and organisational level in order to strengthen capacity in research and effectively manage groundwater resources.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 17 Oct 2022 20:01:35 +0800</pubDate>
+                <link>http://localhost:4000/blog/increasing-groundwater-research</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/increasing-groundwater-research</guid>
+                
+                <category>news</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>How mangrove forests helped stall environmental crime</title>
+                <description>&lt;h1 id=&quot;how-mangrove-forests-helped-stall-environmental-crime&quot;&gt;How mangrove forests helped stall environmental crime&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bbc.com/future/article/20210423-kenyas-unusual-solution-to-illegal-poaching-and-logging&quot;&gt;Original Article&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The majestic mangrove forests of Kenya’s east coast have helped to bring levels of poaching and logging down, while taking large quantities of carbon out of the air.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To a visitor travelling south from Mombasa to savour the rich culture of the Swahili, the village of Gazi passes for a sleepy settlement in an almost forgotten stretch of the rapidly developing Kenyan coast. Inside the closely built mud-walled houses of the village, the day begins with a prayer call from the village mosque before dawn. Soon, early risers return from the shoreline with fish stocks that will supply Gazi’s traders for the day. Later on in the day, women bake flatbreads on roadside hearths to sell to visiting fishermen from as far as Tanzania, while male elders play draft, a local social pastime, on shaded patios.&lt;/p&gt;
+
+&lt;p&gt;Life was not always so peaceful in Gazi – eight years or so ago, things looked very different. The harvesting of mangroves for firewood and construction poles had depleted the local forests. Fish stocks had declined, threatening the livelihoods of the 80% of the village who depend on the sea, says local fisherman Abdallah Mohamed. Without fish, locals turned to charcoal burning and harvesting the region’s indigenous trees for firewood, which they would sell in nearby towns. In the wider region, illegal poaching of elephant, rhino and game was rife.&lt;/p&gt;
+
+&lt;p&gt;But today, the village has a new health centre, school and boreholes for fresh water. In the wider region illegal poaching of iconic wildlife like rhino and elephant has fallen by 90% in six years, according to the Kenya Wildlife Service.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Gazi’s rich coastal forests are home to all nine varieties of mangrove that grow in Kenya, as well as diverse bird life and 180 species of fish&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gazi is one of many villages along the Kenyan coast where poaching and illegal logging have fallen dramatically in recent years. In Gazi, central to the change are the village’s mangrove forests, which have gone from being a declining source of firewood and construction poles to a significant player in the local economy.&lt;/p&gt;
+
+&lt;p&gt;Mangrove forests are some of the most efficient “sponges” for carbon on the planet. A hectare of mangrove forest can sink as much carbon as four hectares of rainforest, most of it sequestered in the depths of rich, frequently waterlogged soil below the mangrove roots. Cutting down mangrove forests prevents these areas from absorbing carbon, and it also releases stored carbon from the soils. By one estimate, &lt;a href=&quot;https://www.nature.com/articles/ngeo1123&quot;&gt;mangrove deforestation generates as much as around 10% of emissions from deforestation globally, despite accounting for just 0.7% of tropical forest area.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gazi’s rich coastal forests are home to all nine varieties of mangrove that grow in Kenya, &lt;a href=&quot;https://www.equatorinitiative.org/2017/06/28/mikoko-pamoja/&quot;&gt;as well as diverse bird life and 180 species of fish.&lt;/a&gt; In 2013, the Mikoko Pamoja carbon project began to conserve and protect 117 hectares (289 acres) of mangrove forest around Gazi, in a partnership between coastal Kenyan communities, the Kenya Marine and Fisheries Institute, and the Plan Vivo Foundation, a Scottish charity. It was the first project of its kind to successfully turn blue carbon, like that stored in mangroves, into an economically viable initiative that could support a community.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Joblessness is the reason the youth usually engage in poaching and illegal logging in Kenya. If carbon projects can create jobs for people in the villages, then society will start seeing forests and wildlife as their banks – Samuel Mutisya&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The premise is simple: in exchange for ensuring the health of Kenya’s coastal mangroves, the project sells carbon credits, which can be bought as a form of “offset”. While &lt;a href=&quot;https://www.bbc.com/future/article/20190409-carbon-offseting-pros-and-cons&quot;&gt;offsetting is a far from perfect solution, it can be a useful measure for currently hard-to-decarbonise industries.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The first steps were to reduce forest loss and degradation. The project established woodlots of Casuarina trees as an alternative source of wood for construction poles and firewood for local people, who were also encouraged to use material falling from coconut trees for fuel too. Then the village participants received training on the economic benefits of conserving mangroves for carbon credits. Finally, the community led a mangrove-planting initiative, preparing saplings for six to seven months in nurseries before planting the trees at appropriate sites.&lt;/p&gt;
+
+&lt;p&gt;It’s a strategy that has paid off – each year the project trades the equivalent of 3,000 tonnes (3,300 tons) of carbon dioxide a year from its 117 hectares of mangrove, roughly the equivalent emissions of around 650 cars on the road each year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ychef.files.bbci.co.uk/1600x900/p09fxxzt.webp&quot; alt=&quot;Mikoko Pamoja&quot; /&gt;
+&lt;em&gt;The Mikoko Pamoja project funded installation of a clean water project for the village (Credit: David Njagi) (Taken from Original Article)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a small start, but the success of Gazi’s blue carbon scheme has inspired a similar &lt;a href=&quot;https://www.oceanographicmagazine.com/news/mangrove-conservation-kenya/&quot;&gt;460-hectare (1.8 sq miles) blue carbon project in Vanga&lt;/a&gt;, a village located about 60km (37 miles) to the south of Gazi. Another project in Lamu to the north is also in its early stages, says Rahma Rashid, project coordinator of Mikoko Pamoja. Overall, about 660,000 hectares (2,548 sq miles) of land are under carbon trading schemes in Kenya, of which blue carbon is still a small, if powerful fraction.&lt;/p&gt;
+
+&lt;p&gt;“The success of these carbon projects is changing how people perceive climate change by assuring them there are growth opportunities,” says Alfred Gichu, Kenya’s national coordinator of REDD+, the UN-backed forest conservation scheme.&lt;/p&gt;
+
+&lt;p&gt;The knock-on effects of the projects have included a reduction in environmental crimes such as illegal logging and poaching. “Joblessness is the reason the youth usually engage in poaching and illegal logging in Kenya,” says Samuel Mutisya, a reformed poacher from Kibwezi, a settlement just to the north of Tsavo National Park. “If carbon projects can create jobs for people in the villages, then society will start seeing forests and wildlife as their banks.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ychef.files.bbci.co.uk/1600x900/p09fxy9j.webp&quot; alt=&quot;mangrove protection&quot; /&gt;
+&lt;em&gt;More mangrove protection projects are set to follow the lead of Mikoko Pamoja, with two being established nearby along the Kenyan coast (Credit: David Njagi) (Taken from Original Article)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the 1980s, there were only three rhinos in Tsavo National Park, which fans through south-eastern Kenya and connects the coast region to the country’s hinterland. Now there are 120 rhinos.&lt;/p&gt;
+
+&lt;p&gt;“Kenya is one of the few countries in Africa that needs to be celebrated because its wildlife numbers are increasing and its conservation efforts are impressive,” according to Kaddu Sebunya, chief executive of the Africa Wildlife Foundation, during the launch of the Benjamin Mkapa African Wildlife Photography Awards in Nairobi in early March.&lt;/p&gt;
+
+&lt;p&gt;At the same time, the Kenya Forestry Services says the country’s forest cover has grown from below 5% to 7%, progress that the service has attributed to conservation efforts such as those taking place in Gazi. Alongside carbon credit schemes, increased law enforcement and engaging with local communities has helped bring environmental crimes down.&lt;/p&gt;
+
+&lt;p&gt;George Wara, the service’s ecosystem conservator responsible for managing 34,000 hectares (131 sq miles) of forest including 8,000 hectares (31 sq miles) of mangroves in Kwale county, agrees that carbon projects have helped reduce illegal logging and poaching in the coastal region. “If the community is benefitting from a forest, then they will have enthusiasm to protect it,” says Wara.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://ychef.files.bbci.co.uk/1600x900/p09fxylr.webp&quot; alt=&quot;mangrove protection&quot; /&gt;
+&lt;em&gt;The mangroves not only mitigate climate change but protect from its worst effects, including buffering storm surges (Credit: David Njagi) (Taken from Original Article)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Changare John, a local from Gazi village, knows the comforts of such successes. In a region that hardly receives enough rainfall for crops, John struggled to provide for her family by selling flatbreads and cooked beans at the roadside. During the low season, when there are few visitors in the village, she could hardly break even. Since she joined the Mikoko Pamoja project as a member, her fortunes have changed for the better.&lt;/p&gt;
+
+&lt;p&gt;“My three children are in school thanks to the bursary they get from the project,” she says. “When they get sick, I do not have to worry about medical fees because our health centre is also supported by the project.”&lt;/p&gt;
+
+&lt;p&gt;The local fisherman Abdallah Mohamed, who is not involved in the project, has also noticed benefits. “The fish returned after the community stopped taking firewood from the mangroves. Our indigenous trees are also thriving because there are fewer disturbances,” he says. “This project is really a game changer.”&lt;/p&gt;
+
+&lt;p&gt;With more blue carbon schemes set to roll out in Kenya, Gazi and other villages could soon see additional benefits from their conserved mangrove forests. As well as absorbing carbon, these forests are a natural buffer to some of the worst effects of climate change, including &lt;a href=&quot;https://theconversation.com/how-mangroves-protect-people-from-increasingly-frequent-and-powerful-tropical-storms-118200&quot;&gt;storm surges&lt;/a&gt; and, &lt;a href=&quot;https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-122414-034025&quot;&gt;to an extent, rising sea levels&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As the world’s mangroves &lt;a href=&quot;https://www.wri.org/insights/satellite-data-reveals-state-worlds-mangrove-forests&quot;&gt;are steadily being lost through urban development, and the expansion of agriculture and aquaculture&lt;/a&gt;, projects like Gazi’s show that it is both possible and profitable to save the forests that can protect against climate change.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 21 Sep 2021 20:01:35 +0800</pubDate>
+                <link>http://localhost:4000/blog/bbc-mangrove-forest</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/bbc-mangrove-forest</guid>
+                
+                <category>news</category>
+                
+                
+            </item>
         
             <item>
                 <title>Colormaps</title>
@@ -769,356 +903,6 @@ Attributes:
                 <category>colors</category>
                 
                 <category>weblink</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Installing WRF from scratch in an HPC using Intel Compilers</title>
-                <description>&lt;p&gt;The Weather Research and Forecasting (WRF) Model is a mesoscale numerical weather prediction system utilized worldwide for operational forecasts and research purposes.&lt;/p&gt;
-
-&lt;p&gt;Here is the installation of the WRF 4.2.1 model using Intel compilers. It will be helpful to those who want to install WRF from scratch in an HPC environment. Some of the steps may not be required depending on your HPC environment.&lt;/p&gt;
-
-&lt;h2 id=&quot;required-libraries&quot;&gt;Required Libraries&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;zlib&lt;/li&gt;
-  &lt;li&gt;libpng (if required)&lt;/li&gt;
-  &lt;li&gt;HDF5&lt;/li&gt;
-  &lt;li&gt;NetCDF&lt;/li&gt;
-  &lt;li&gt;JasPer&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Generally, these libraries should be their (except for Jasper). If you do not have those then install using the steps below or you directly start from Step 5:&lt;/p&gt;
-
-&lt;h3 id=&quot;setting-up-the-environemnt-for-intel-compilers&quot;&gt;Setting up the environemnt for Intel compilers&lt;/h3&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;CC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;icc
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;FC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ifort
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;F90&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;ifort
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;CXX&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;icpc
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;1-installing-zlib&quot;&gt;1. Installing zlib&lt;/h3&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;mkdir &lt;/span&gt;wrf_install_intel
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;wrf_install_intel/
-wget https://zlib.net/zlib-1.2.11.tar.gz
-
-&lt;span class=&quot;nb&quot;&gt;tar &lt;/span&gt;xvf zlib-1.2.11.tar.gz
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;zlib-1.2.11/
-
-./configure &lt;span class=&quot;nt&quot;&gt;--prefix&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/
-make
-make &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;2-installing-libpng&quot;&gt;2. Installing libpng&lt;/h3&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;wget https://onboardcloud.dl.sourceforge.net/project/libpng/libpng16/1.6.37/libpng-1.6.37.tar.gz
-
-&lt;span class=&quot;nb&quot;&gt;tar &lt;/span&gt;xvf libpng-1.6.37.tar.gz
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;libpng-1.6.37/
-
-./configure &lt;span class=&quot;nt&quot;&gt;--prefix&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/ 
-make
-make &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;3-installing-hdf5&quot;&gt;3. Installing HDF5&lt;/h3&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ../
-wget https://hdf-wordpress-1.s3.amazonaws.com/wp-content/uploads/manual/HDF5/HDF5_1_12_0/source/hdf5-1.12.0.tar.gz
-./configure &lt;span class=&quot;nt&quot;&gt;--prefix&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/ &lt;span class=&quot;nt&quot;&gt;--with-zlib&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/ &lt;span class=&quot;nt&quot;&gt;--enable-fortran&lt;/span&gt;
-make 
-make &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;4-installing-netcdf&quot;&gt;4. Installing NetCDF&lt;/h3&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ../
-wget https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-c-4.7.4.tar.gz
-&lt;span class=&quot;nb&quot;&gt;tar &lt;/span&gt;xvf netcdf-c-4.7.4.tar.gz 
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;netcdf-c-4.7.4/
-
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;LD_LIBRARY_PATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/lib:&lt;span class=&quot;nv&quot;&gt;$LD_LIBRARY_PATH&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;LDFLAGS&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-L&lt;/span&gt;/home/wrf/wrf_libs_intel/lib
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;CPPFLAGS&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-I&lt;/span&gt;/home/wrf/wrf_libs_intel/include
-./configure &lt;span class=&quot;nt&quot;&gt;--prefix&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/ 
-make
-make &lt;span class=&quot;nb&quot;&gt;install
-
-cd&lt;/span&gt; ../
-wget https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-fortran-4.5.3.tar.gz
-&lt;span class=&quot;nb&quot;&gt;tar &lt;/span&gt;xvf netcdf-fortran-4.5.3.tar.gz 
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;netcdf-fortran-4.5.3/
-./configure &lt;span class=&quot;nt&quot;&gt;--prefix&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/ 
-make
-make &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;5-installing-jasper&quot;&gt;5. Installing JasPer&lt;/h3&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ../
-wget https://www.ece.uvic.ca/~frodo/jasper/software/jasper-1.900.29.tar.gz
-&lt;span class=&quot;nb&quot;&gt;tar &lt;/span&gt;xvf jasper-1.900.29.tar.gz
-./configure &lt;span class=&quot;nt&quot;&gt;--prefix&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/ 
-make
-make &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;If there is a compilation error then following fix maybe implemented (Thanks to Lena Marie Müller):
-&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sed -i &apos;s/char *optstr/const char *optstr/g&apos; src/libjasper/jpg/jpg_dummy.c&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;wrf-install&quot;&gt;WRF Install&lt;/h2&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;NETCDF&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;HDF5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/
-wget https://github.com/wrf-model/WRF/archive/v4.2.1.tar.gz
-&lt;span class=&quot;nb&quot;&gt;tar &lt;/span&gt;xvf v4.2.1.tar.gz
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;WRF-4.2.1/
-./configure 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;output&quot;&gt;Output:&lt;/h3&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;checking &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;perl5... no
-checking &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;perl... found /usr/local/bin/perl &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;perl&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-Will use NETCDF &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;dir&lt;/span&gt;: /home/wrf/wrf_libs_intel/
-Will use HDF5 &lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;dir&lt;/span&gt;: /home/wrf/wrf_libs_intel/
-PHDF5 not &lt;span class=&quot;nb&quot;&gt;set &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in &lt;/span&gt;environment. Will configure WRF &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;use without.
-Will use &lt;span class=&quot;s1&quot;&gt;&apos;time&apos;&lt;/span&gt; to report timing information
-
-
-If you REALLY want Grib2 output from WRF, modify the &lt;span class=&quot;nb&quot;&gt;arch&lt;/span&gt;/Config.pl script.
-Right now you are not getting the Jasper lib, from the environment, compiled into WRF.
-
-&lt;span class=&quot;nt&quot;&gt;------------------------------------------------------------------------&lt;/span&gt;
-Please &lt;span class=&quot;k&quot;&gt;select &lt;/span&gt;from among the following Linux x86_64 options:
-
-  1. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   2. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   3. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   4. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   PGI &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pgf90/gcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-  5. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   6. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   7. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   8. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   PGI &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pgf90/pgcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: SGI MPT
-  9. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  10. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  11. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  12. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   PGI &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pgf90/gcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: PGI accelerator
- 13. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  14. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  15. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  16. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ifort/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-                                         17. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ifort/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: Xeon Phi &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;MIC architecture&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
- 18. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  19. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  20. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  21. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ifort/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: Xeon &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;SNB with AVX mods&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
- 22. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  23. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  24. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  25. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ifort/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: SGI MPT
- 26. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  27. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  28. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  29. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ifort/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: IBM POE
- 30. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;               31. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;                PATHSCALE &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pathf90/pathcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
- 32. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  33. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  34. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  35. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   GNU &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;gfortran/gcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
- 36. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  37. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  38. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  39. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   IBM &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;xlf90_r/cc_r&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
- 40. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  41. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  42. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  43. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   PGI &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ftn/gcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: Cray XC CLE
- 44. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  45. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  46. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  47. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   CRAY CCE &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ftn &lt;span class=&quot;si&quot;&gt;$(&lt;/span&gt;NOOMP&lt;span class=&quot;si&quot;&gt;)&lt;/span&gt;/cc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: Cray XE and XC
- 48. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  49. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  50. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  51. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ftn/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: Cray XC
- 52. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  53. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  54. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  55. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   PGI &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pgf90/pgcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
- 56. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  57. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  58. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  59. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   PGI &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pgf90/gcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: &lt;span class=&quot;nt&quot;&gt;-f90&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;pgf90
- 60. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  61. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  62. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  63. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   PGI &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;pgf90/pgcc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: &lt;span class=&quot;nt&quot;&gt;-f90&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;pgf90
- 64. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  65. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  66. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  67. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ifort/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: HSW/BDW
- 68. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  69. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  70. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  71. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   INTEL &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ifort/icc&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: KNL MIC
- 72. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;serial&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  73. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;smpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  74. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dmpar&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;  75. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;dm+sm&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;   FUJITSU &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;frtpx/fccpx&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;: FX10/FX100 SPARC64 IXfx/Xlfx
-
-Enter selection &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;1-75] : 20
-&lt;span class=&quot;nt&quot;&gt;------------------------------------------------------------------------&lt;/span&gt;
-Compile &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;nesting? &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;basic, &lt;span class=&quot;nv&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;preset moves, &lt;span class=&quot;nv&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;vortex following&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;default 1]: 
-
-Configuration successful! 
-&lt;span class=&quot;nt&quot;&gt;------------------------------------------------------------------------&lt;/span&gt;
-testing &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;fseeko and fseeko64
-fseeko64 is supported
-&lt;span class=&quot;nt&quot;&gt;------------------------------------------------------------------------&lt;/span&gt;
-...
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;edit-configurewrf&quot;&gt;Edit configure.wrf&lt;/h3&gt;
-&lt;p&gt;Edit here using your favorite editor:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;DM_FC           =       mpiifort
-DM_CC           =       mpiicc
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;compile-the-code&quot;&gt;Compile the code&lt;/h3&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;./compile -j 4 em_real 2&amp;gt;&amp;amp;1 | tee compile.log
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This step will take around 30-45 min to complete. Be patient!&lt;/p&gt;
-
-&lt;h4 id=&quot;output-1&quot;&gt;Output:&lt;/h4&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---&amp;gt;                  Executables successfully built                  &amp;lt;---
- 
--rwxrwxr-x 1 wrf wrf 40691640 Jul 30 12:35 main/ndown.exe
--rwxrwxr-x 1 wrf wrf 40572760 Jul 30 12:35 main/real.exe
--rwxrwxr-x 1 wrf wrf 40048888 Jul 30 12:35 main/tc.exe
--rwxrwxr-x 1 wrf wrf 44609360 Jul 30 12:35 main/wrf.exe
- 
-==========================================================================
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Sometimes, you have again re-run the compile code, if you do not get this as the output.&lt;/p&gt;
-
-&lt;h2 id=&quot;wps-install&quot;&gt;WPS Install&lt;/h2&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ../
-wget https://github.com/wrf-model/WPS/archive/v4.2.tar.gz
-&lt;span class=&quot;nb&quot;&gt;tar &lt;/span&gt;xvf v4.2.tar.gz
-&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;WPS-4.2/
-
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WRF_DIR&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;../WRF-4.2.1/
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;JASPERLIB&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/lib/
-&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;JASPERINC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/home/wrf/wrf_libs_intel/include/
-
-./configure
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;output-2&quot;&gt;Output:&lt;/h4&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;------------------------------------------------------------------------
-Please select from among the following supported platforms.
-
-   1.  Linux x86_64, gfortran    (serial)
-   2.  Linux x86_64, gfortran    (serial_NO_GRIB2)
-   3.  Linux x86_64, gfortran    (dmpar)
-   4.  Linux x86_64, gfortran    (dmpar_NO_GRIB2)
-   5.  Linux x86_64, PGI compiler   (serial)
-   6.  Linux x86_64, PGI compiler   (serial_NO_GRIB2)
-   7.  Linux x86_64, PGI compiler   (dmpar)
-   8.  Linux x86_64, PGI compiler   (dmpar_NO_GRIB2)
-   9.  Linux x86_64, PGI compiler, SGI MPT   (serial)
-  10.  Linux x86_64, PGI compiler, SGI MPT   (serial_NO_GRIB2)
-  11.  Linux x86_64, PGI compiler, SGI MPT   (dmpar)
-  12.  Linux x86_64, PGI compiler, SGI MPT   (dmpar_NO_GRIB2)
-  13.  Linux x86_64, IA64 and Opteron    (serial)
-  14.  Linux x86_64, IA64 and Opteron    (serial_NO_GRIB2)
-  15.  Linux x86_64, IA64 and Opteron    (dmpar)
-  16.  Linux x86_64, IA64 and Opteron    (dmpar_NO_GRIB2)
-  17.  Linux x86_64, Intel compiler    (serial)
-  18.  Linux x86_64, Intel compiler    (serial_NO_GRIB2)
-  19.  Linux x86_64, Intel compiler    (dmpar)
-  20.  Linux x86_64, Intel compiler    (dmpar_NO_GRIB2)
-  21.  Linux x86_64, Intel compiler, SGI MPT    (serial)
-  22.  Linux x86_64, Intel compiler, SGI MPT    (serial_NO_GRIB2)
-  23.  Linux x86_64, Intel compiler, SGI MPT    (dmpar)
-  24.  Linux x86_64, Intel compiler, SGI MPT    (dmpar_NO_GRIB2)
-  25.  Linux x86_64, Intel compiler, IBM POE    (serial)
-  26.  Linux x86_64, Intel compiler, IBM POE    (serial_NO_GRIB2)
-  27.  Linux x86_64, Intel compiler, IBM POE    (dmpar)
-  28.  Linux x86_64, Intel compiler, IBM POE    (dmpar_NO_GRIB2)
-  29.  Linux x86_64 g95 compiler     (serial)
-  30.  Linux x86_64 g95 compiler     (serial_NO_GRIB2)
-  31.  Linux x86_64 g95 compiler     (dmpar)
-  32.  Linux x86_64 g95 compiler     (dmpar_NO_GRIB2)
-  33.  Cray XE/XC CLE/Linux x86_64, Cray compiler   (serial)
-  34.  Cray XE/XC CLE/Linux x86_64, Cray compiler   (serial_NO_GRIB2)
-  35.  Cray XE/XC CLE/Linux x86_64, Cray compiler   (dmpar)
-  36.  Cray XE/XC CLE/Linux x86_64, Cray compiler   (dmpar_NO_GRIB2)
-  37.  Cray XC CLE/Linux x86_64, Intel compiler   (serial)
-  38.  Cray XC CLE/Linux x86_64, Intel compiler   (serial_NO_GRIB2)
-  39.  Cray XC CLE/Linux x86_64, Intel compiler   (dmpar)
-  40.  Cray XC CLE/Linux x86_64, Intel compiler   (dmpar_NO_GRIB2)
-
-Enter selection [1-40] : 17
-------------------------------------------------------------------------
-Configuration successful. To build the WPS, type: compile
-------------------------------------------------------------------------
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;compile-the-wps&quot;&gt;Compile the WPS&lt;/h3&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;./compile 2&amp;gt;&amp;amp;1 | &lt;span class=&quot;nb&quot;&gt;tee &lt;/span&gt;compile.log
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;output-3&quot;&gt;Output:&lt;/h4&gt;
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;ls&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-rlt&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;lrwxrwxrwx 1 wrf wrf    23 Jul 30 12:46 geogrid.exe -&amp;gt; geogrid/src/geogrid.exe
-lrwxrwxrwx 1 wrf wrf    21 Jul 30 12:46 ungrib.exe -&amp;gt; ungrib/src/ungrib.exe
-lrwxrwxrwx 1 wrf wrf    23 Jul 30 12:46 metgrid.exe -&amp;gt; metgrid/src/metgrid.exe
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Congratulations! You have installed the WRF.&lt;/p&gt;
-</description>
-                <pubDate>Tue, 01 Sep 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/installing-wrf-from-scratch-in-an-hpc-using-intel-compilers</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/installing-wrf-from-scratch-in-an-hpc-using-intel-compilers</guid>
-                
-                <category>coding</category>
-                
-                <category>WRF</category>
-                
-                <category>install</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>NetCDF to GeoTIFF using Python</title>
-                <description>&lt;p&gt;A simple and elegant method to convert NetCDF to GeoTIFF using python.&lt;/p&gt;
-
-&lt;h1 id=&quot;python-script&quot;&gt;Python Script&lt;/h1&gt;
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;xarray&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xr&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;rioxarray&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;#Open the NetCDF
-#Download the sample from https://www.unidata.ucar.edu/software/netcdf/examples/sresa1b_ncar_ccsm3-example.nc
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ncfile&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;open_dataset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;sresa1b_ncar_ccsm3-example.nc&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;#Extract the variable
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ncfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;pr&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;#(Optional) convert longitude from (0-360) to (-180 to 180) (if required)
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;lon&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;lon&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortby&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;#Define lat/long 
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_spatial_dims&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;lon&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&apos;lat&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;#Check for the CRS
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;crs&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;#(Optional) If your CRS is not discovered, you should be able to add it like so:
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_crs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;epsg:4326&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;#Saving the file
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to_raster&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sa&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;GeoTIFF.tif&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;explanation&quot;&gt;Explanation&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Basic import stuff for Python
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;xarray&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xr&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;rioxarray&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Loading the dataset
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;ncfile&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;open_dataset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;sresa1b_ncar_ccsm3-example.nc&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Extracting the varibale of your choice. Here it is precipitation (pr).
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ncfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;pr&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;(Optional) In this example the longitude is from 0-360. GIS software do not treat well this kind of system. Therefore, we onvert it in -180 to 180. This might be optional for your dataset.
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;lon&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coords&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;lon&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortby&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lon&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;It’s a good idea to provide the x and y axis for the GeoTIFF. NetCDF sometimes have non-conventional naming schemes.
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_spatial_dims&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;lon&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&apos;lat&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Check for projection system
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;crs&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;(Optional) If there is no output of step 6. Then define the projection system.
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_crs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;epsg:4326&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Saving the GeoTIFF file.
-    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;pr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to_raster&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sa&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;GeoTIFF.tif&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Hope you like it!&lt;/p&gt;
-</description>
-                <pubDate>Sat, 01 Aug 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/netcdf-to-geotiff-using-python</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/netcdf-to-geotiff-using-python</guid>
-                
-                <category>coding</category>
-                
-                <category>python</category>
                 
                 
             </item>
