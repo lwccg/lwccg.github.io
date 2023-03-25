@@ -61,6 +61,16 @@ For latest documentation, please visit https://imdlib.readthedocs.io/en/latest/
 <body>
 
   
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K7DSXBV6L7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-K7DSXBV6L7');
+</script>
+  
 
   <!-- begin global wrap -->
   <div class="global-wrap">
@@ -391,7 +401,7 @@ Attributes:
       <div class="card-author__role">Written by</div>
         
         <h3 class="card-author__name"><a href="/saswata" class="card-author__link">Saswata Nandi</a></h3>
-        <p class="card-author__description">Hi, this is Dr. Saswata Nandi, a PhD graduate from Indian Institute of Technology Bombay, India, and currently working as a postdoctoral researcher at the University of California, Merced. My research focuses on hydrological modeling, climate change studies, flood and drought risk assessments, optimization techniques and developing decision support systems. I am interested in open source developments and primary developer for the IMDLIB meteorological package. Currently, my works are directed towards understanding the complex interactions between water, environment, climate and for using this knowledge to improve our ability to predict and prepare for better future.</p>
+        <p class="card-author__description">Hi, this is Dr. Saswata Nandi, a PhD graduate from Indian Institute of Technology Bombay, India, and currently working as a postdoctoral researcher at the University of California, Merced. My research focuses on hydrological modeling, climate change studies, flood and drought risk assessments, optimization techniques and developing decision support systems.</p>
         
     </div>
   </div>
@@ -641,6 +651,48 @@ for WRF out file.
 </div>
 <!-- end related posts -->
 
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <!-- begin comments -->
+<div class="show-comments animate">
+  <button class="button button--big disqus-button" id="show-comments-button" onclick="disqus();return false;">Show Comments</button>
+</div>
+
+<div id="disqus_thread" class="post__comments">
+  <div id="disqus_empty"></div>
+</div>
+
+<script>
+  var disqus_loaded = false;
+  var disqus_shortname = 'lwcc-2';
+  var disqus_container = document.getElementById("disqus_thread");
+  function disqus() {
+    if (!disqus_loaded) {
+      disqus_loaded = true;
+      var e = document.createElement("script");
+      e.type = "text/javascript";
+      e.async = true;
+      e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+      (document.getElementsByTagName("head")[0] ||
+        document.getElementsByTagName("body")[0])
+        .appendChild(e);
+      // Hide the button after opening
+      document.getElementById("show-comments-button").style.display = "none";
+      // Show disqus comments
+      disqus_container.classList.add("is-open");
+    }
+  }
+</script>
+
+<noscript>Please enable JavaScript to view the
+  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<!-- end comments --> 
+      </div>
+    </div>
+  </div>
 
     </main>
     <!-- end content -->
