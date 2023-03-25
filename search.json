@@ -4,7 +4,7 @@
       "title"    : "South Asia’s contribution to increasing groundwater research",
       "category" : "",
       "tags"     : "news",
-      "url"      : "//blog/increasing-groundwater-research",
+      "url"      : "/blog/increasing-groundwater-research",
       "date"     : "17 October 2022",
       "image"    : "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/carousel/public/thumbnails/image/wss-banner-aquifers-gwater.jpg?itok=9TWvnR7u"
     } ,
@@ -13,7 +13,7 @@
       "title"    : "How mangrove forests helped stall environmental crime",
       "category" : "",
       "tags"     : "news",
-      "url"      : "//blog/bbc-mangrove-forest",
+      "url"      : "/blog/bbc-mangrove-forest",
       "date"     : "21 September 2021",
       "image"    : "https://ychef.files.bbci.co.uk/1600x900/p09fxxwf.webp"
     } ,
@@ -22,7 +22,7 @@
       "title"    : "Colormaps",
       "category" : "",
       "tags"     : "coding, python, plotting, and colors",
-      "url"      : "//blog/colormaps",
+      "url"      : "/blog/colormaps",
       "date"     : "10 August 2021",
       "image"    : "https://pratiman-91.github.io/colormaps/assets/images/demo/matplotlib_1.png"
     } ,
@@ -31,7 +31,7 @@
       "title"    : "SkewT Plot from WRF outputs",
       "category" : "",
       "tags"     : "coding, python, and plotting",
-      "url"      : "//blog/skewt-plots-from-wrf-outputs",
+      "url"      : "/blog/skewt-plots-from-wrf-outputs",
       "date"     : "05 August 2021",
       "image"    : "/images/2021/08/05/SkewT_Simple.png"
     } ,
@@ -40,7 +40,7 @@
       "title"    : "Building Your Color Palette",
       "category" : "",
       "tags"     : "coding and colors",
-      "url"      : "//blog/building-your-color-palette",
+      "url"      : "/blog/building-your-color-palette",
       "date"     : "04 December 2020",
       "image"    : "/images/11.jpg"
     } ,
@@ -49,7 +49,7 @@
       "title"    : "Extracting Regions from IMD datasets using Python",
       "category" : "",
       "tags"     : "coding, python, and imdlib",
-      "url"      : "//blog/extracting-regions-from-imd-dataset",
+      "url"      : "/blog/extracting-regions-from-imd-dataset",
       "date"     : "29 October 2020",
       "image"    : "/images/37.jpg"
     } ,
@@ -58,7 +58,7 @@
       "title"    : "Getting started with Python and IMDLIB",
       "category" : "",
       "tags"     : "coding, python, and imdlib",
-      "url"      : "//blog/getting-started-with-python-and-imdlib",
+      "url"      : "/blog/getting-started-with-python-and-imdlib",
       "date"     : "07 October 2020",
       "image"    : "/images/38.jpg"
     } ,
@@ -67,7 +67,7 @@
       "title"    : "India Meteorological Department (IMD) grided data to GeoTIFF",
       "category" : "",
       "tags"     : "coding, python, and imdlib",
-      "url"      : "//blog/imd-grided-to-geotiff",
+      "url"      : "/blog/imd-grided-to-geotiff",
       "date"     : "06 October 2020",
       "image"    : "/images/39.jpg"
     } ,
@@ -76,7 +76,7 @@
       "title"    : "IMDLIB, A python package to download and handle binary grided data from India Meteorological Department (IMD)",
       "category" : "",
       "tags"     : "coding, python, and imdlib",
-      "url"      : "//blog/imdlib",
+      "url"      : "/blog/imdlib",
       "date"     : "05 October 2020",
       "image"    : "/images/39.jpg"
     } ,
@@ -85,7 +85,7 @@
       "title"    : "How to pick more beautiful colors for your data visualizations?",
       "category" : "",
       "tags"     : "colors and weblink",
-      "url"      : "//blog/beautiful-colors-for-your-data-visualizations",
+      "url"      : "/blog/beautiful-colors-for-your-data-visualizations",
       "date"     : "05 September 2020",
       "image"    : "/images/2020/09/05/Fig-01.png"
     } ,
@@ -94,7 +94,7 @@
       "title"    : "Installing WRF from scratch in an HPC using Intel Compilers",
       "category" : "",
       "tags"     : "coding, WRF, and install",
-      "url"      : "//blog/installing-wrf-from-scratch-in-an-hpc-using-intel-compilers",
+      "url"      : "/blog/installing-wrf-from-scratch-in-an-hpc-using-intel-compilers",
       "date"     : "01 September 2020",
       "image"    : "/images/22.jpg"
     } ,
@@ -103,7 +103,7 @@
       "title"    : "NetCDF to GeoTIFF using Python",
       "category" : "",
       "tags"     : "coding and python",
-      "url"      : "//blog/netcdf-to-geotiff-using-python",
+      "url"      : "/blog/netcdf-to-geotiff-using-python",
       "date"     : "01 August 2020",
       "image"    : "/images/11.jpg"
     } ,
@@ -112,7 +112,7 @@
       "title"    : "WRF surface plots using Python",
       "category" : "",
       "tags"     : "coding, python, plotting, and WRF",
-      "url"      : "//blog/wrf-surface-plot-using-python",
+      "url"      : "/blog/wrf-surface-plot-using-python",
       "date"     : "29 July 2020",
       "image"    : "/images/2020/07/29/Fig1.png"
     } ,
@@ -121,7 +121,7 @@
       "title"    : "Installing WRF 4.2.1 on Ubuntu LTS 20.04",
       "category" : "",
       "tags"     : "coding, WRF, and install",
-      "url"      : "//blog/installing-wrf-4-2-1-on-ubuntu-lts-20-04",
+      "url"      : "/blog/installing-wrf-4-2-1-on-ubuntu-lts-20-04",
       "date"     : "28 July 2020",
       "image"    : "/images/06.jpg"
     } ,
@@ -130,7 +130,7 @@
       "title"    : "Panel or Facet plots from NetCDF4",
       "category" : "",
       "tags"     : "coding, python, and plotting",
-      "url"      : "//blog/panel-or-facet-plots-from-netcdf",
+      "url"      : "/blog/panel-or-facet-plots-from-netcdf",
       "date"     : "09 July 2020",
       "image"    : "/images/2020/07/10/Fig2.png"
     } ,
@@ -139,7 +139,7 @@
       "title"    : "Plotting GeoTIFF in Python",
       "category" : "",
       "tags"     : "coding, python, and plotting",
-      "url"      : "//blog/plotting-geotiff-in-python",
+      "url"      : "/blog/plotting-geotiff-in-python",
       "date"     : "30 June 2020",
       "image"    : "/images/2020/06/30/Fig2.png"
     } 

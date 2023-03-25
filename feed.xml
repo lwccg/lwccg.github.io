@@ -3,10 +3,10 @@
     <channel>
         <title>LWCC</title>
         <description>Land, Water, and Climate Change</description>
-        <link>http://localhost:4000//</link>
+        <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Mar 2023 03:48:34 +0800</pubDate>
-        <lastBuildDate>Sun, 26 Mar 2023 03:48:34 +0800</lastBuildDate>
+        <pubDate>Sun, 26 Mar 2023 03:55:05 +0800</pubDate>
+        <lastBuildDate>Sun, 26 Mar 2023 03:55:05 +0800</lastBuildDate>
         <generator>Jekyll v4.3.1</generator>
         
             <item>
