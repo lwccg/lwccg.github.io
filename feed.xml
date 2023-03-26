@@ -3,10 +3,10 @@
     <channel>
         <title>LWCC</title>
         <description>Land, Water, and Climate Change</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Mar 2023 03:55:05 +0800</pubDate>
-        <lastBuildDate>Sun, 26 Mar 2023 03:55:05 +0800</lastBuildDate>
+        <link>https://www.lwcc.in/</link>
+        <atom:link href="https://www.lwcc.in/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 26 Mar 2023 16:39:40 +0800</pubDate>
+        <lastBuildDate>Sun, 26 Mar 2023 16:39:40 +0800</lastBuildDate>
         <generator>Jekyll v4.3.1</generator>
         
             <item>
@@ -58,8 +58,8 @@
 &lt;p&gt;Our research demonstrates the usefulness of bibliometric analysis for both established and emerging scholars, as well as the professional community. The analysis helped to track and map the growth, trends and future direction of groundwater research. With this study, it is hoped that the gaps identified will be addressed and improved at the individual and organisational level in order to strengthen capacity in research and effectively manage groundwater resources.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 17 Oct 2022 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/increasing-groundwater-research</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/increasing-groundwater-research</guid>
+                <link>https://www.lwcc.in/blog/increasing-groundwater-research</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/increasing-groundwater-research</guid>
                 
                 <category>news</category>
                 
@@ -135,8 +135,8 @@
 &lt;p&gt;As the world’s mangroves &lt;a href=&quot;https://www.wri.org/insights/satellite-data-reveals-state-worlds-mangrove-forests&quot;&gt;are steadily being lost through urban development, and the expansion of agriculture and aquaculture&lt;/a&gt;, projects like Gazi’s show that it is both possible and profitable to save the forests that can protect against climate change.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 21 Sep 2021 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/bbc-mangrove-forest</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/bbc-mangrove-forest</guid>
+                <link>https://www.lwcc.in/blog/bbc-mangrove-forest</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/bbc-mangrove-forest</guid>
                 
                 <category>news</category>
                 
@@ -279,8 +279,8 @@ python setup.py &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
 &lt;p&gt;&lt;img src=&quot;https://pratiman-91.github.io/colormaps/assets/images/demo/matplotlib_1.png&quot; alt=&quot;concat_1&quot; /&gt;&lt;/p&gt;
 </description>
                 <pubDate>Tue, 10 Aug 2021 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/colormaps</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/colormaps</guid>
+                <link>https://www.lwcc.in/blog/colormaps</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/colormaps</guid>
                 
                 <category>coding</category>
                 
@@ -461,8 +461,8 @@ for WRF out file.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
                 <pubDate>Thu, 05 Aug 2021 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/skewt-plots-from-wrf-outputs</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/skewt-plots-from-wrf-outputs</guid>
+                <link>https://www.lwcc.in/blog/skewt-plots-from-wrf-outputs</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/skewt-plots-from-wrf-outputs</guid>
                 
                 <category>coding</category>
                 
@@ -478,8 +478,8 @@ for WRF out file.&lt;/p&gt;
                 <description>&lt;p&gt;An excellent and interesting blog related to the building a new colour palette, which I find challenging to work. Use the following link: &lt;a href=&quot;https://refactoringui.com/previews/building-your-color-palette/&quot;&gt;https://refactoringui.com/previews/building-your-color-palette/&lt;/a&gt;&lt;/p&gt;
 </description>
                 <pubDate>Fri, 04 Dec 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/building-your-color-palette</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/building-your-color-palette</guid>
+                <link>https://www.lwcc.in/blog/building-your-color-palette</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/building-your-color-palette</guid>
                 
                 <category>coding</category>
                 
@@ -530,8 +530,8 @@ for WRF out file.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/uploads/2020/10/29/FIG1.png&quot; alt=&quot;Simple Plot&quot; /&gt;&lt;/p&gt;
 </description>
                 <pubDate>Thu, 29 Oct 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/extracting-regions-from-imd-dataset</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/extracting-regions-from-imd-dataset</guid>
+                <link>https://www.lwcc.in/blog/extracting-regions-from-imd-dataset</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/extracting-regions-from-imd-dataset</guid>
                 
                 <category>coding</category>
                 
@@ -650,8 +650,8 @@ Executing transaction: done
 &lt;p&gt;Welcome to the world of Python!&lt;/p&gt;
 </description>
                 <pubDate>Wed, 07 Oct 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/getting-started-with-python-and-imdlib</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/getting-started-with-python-and-imdlib</guid>
+                <link>https://www.lwcc.in/blog/getting-started-with-python-and-imdlib</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/getting-started-with-python-and-imdlib</guid>
                 
                 <category>coding</category>
                 
@@ -745,8 +745,8 @@ Attributes:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
                 <pubDate>Tue, 06 Oct 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/imd-grided-to-geotiff</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/imd-grided-to-geotiff</guid>
+                <link>https://www.lwcc.in/blog/imd-grided-to-geotiff</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/imd-grided-to-geotiff</guid>
                 
                 <category>coding</category>
                 
@@ -880,8 +880,8 @@ Attributes:
 &lt;/blockquote&gt;
 </description>
                 <pubDate>Mon, 05 Oct 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/imdlib</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/imdlib</guid>
+                <link>https://www.lwcc.in/blog/imdlib</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/imdlib</guid>
                 
                 <category>coding</category>
                 
@@ -897,8 +897,8 @@ Attributes:
                 <description>&lt;p&gt;Go to this site: &lt;a href=&quot;https://blog.datawrapper.de/beautifulcolors/&quot;&gt;How to pick more beautiful colors for your data visualizations?!&lt;/a&gt;&lt;/p&gt;
 </description>
                 <pubDate>Sat, 05 Sep 2020 20:01:35 +0800</pubDate>
-                <link>http://localhost:4000/blog/beautiful-colors-for-your-data-visualizations</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/beautiful-colors-for-your-data-visualizations</guid>
+                <link>https://www.lwcc.in/blog/beautiful-colors-for-your-data-visualizations</link>
+                <guid isPermaLink="true">https://www.lwcc.in/blog/beautiful-colors-for-your-data-visualizations</guid>
                 
                 <category>colors</category>
                 
